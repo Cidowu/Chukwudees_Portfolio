@@ -25,3 +25,8 @@
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. 
 Below are a few highlights from the pivot tables.
+
+![](https://raw.githubusercontent.com/Cidowu/Chukwudees_Portfolio/c5ba059f6c51a1a6b60ac9cc6e3e1f5236b91790/Images/MAP.JPG)
+![](https://raw.githubusercontent.com/Cidowu/Chukwudees_Portfolio/c5ba059f6c51a1a6b60ac9cc6e3e1f5236b91790/Images/HIST%201.JPG)
+![](https://raw.githubusercontent.com/Cidowu/Chukwudees_Portfolio/c5ba059f6c51a1a6b60ac9cc6e3e1f5236b91790/Images/BOXPLOT.JPG)
+![](https://raw.githubusercontent.com/Cidowu/Chukwudees_Portfolio/c5ba059f6c51a1a6b60ac9cc6e3e1f5236b91790/Images/BAR.JPG)
