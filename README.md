@@ -1,12 +1,12 @@
 # Chukwudees_Portfolio
 #### This is my first data science project with python
 
-# Project 1: Housing in Brazil - Project Overview
+# [Project 1: Housing in Brazil - Project Overview](https://github.com/Cidowu/Chukwudees_Portfolio) 
 * Analyzed over 22000 property data from Brazil
 * Cleaned messy data and combined different datasets
 * Carried out EDA to have a quick understanding of the factors affecting property prices
 * Carried out Data visualization to visualize data effectively
-* Carried out Regression analysis to understand the relationship between area per sq meter and price 
+* Carried out Regression analysis to understand the relationship between area per sq meter and price
 
 
 # Code and Resources Used
