@@ -22,6 +22,6 @@
 * Created "price_usd" column by converting "price_brl" to USD using exchange rates
 
 
-# Data Cleaning
+# EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. 
 Below are a few highlights from the pivot tables.
