@@ -3,7 +3,7 @@
 
 # Project 1: Housing in Brazil - Project Overview
 * Analyzed over 22000 property data from Brazil
-* Cleaned data and removed all empty rows
+* Cleaned messy data and combined different datasets
 * Carried out EDA to have a quick understanding of the factors affecting property prices
 * Carried out Data visualization to visualize data effectively
 * Carried out Regression analysis to understand the relationship between area per sq meter and price 
@@ -22,3 +22,6 @@
 * Created "price_usd" column by converting "price_brl" to USD using exchange rates
 
 
+# Data Cleaning
+I looked at the distributions of the data and the value counts for the various categorical variables. 
+Below are a few highlights from the pivot tables.
